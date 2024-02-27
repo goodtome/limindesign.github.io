@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[李敏的作品集]]></title>
+  <link href="limindesign.top/atom.xml" rel="self"/>
+  <link href="limindesign.top/"/>
+  <updated>2024-02-28T00:24:59+08:00</updated>
+  <id>limindesign.top/</id>
+  <author>
+    <name><![CDATA[limin]]></name>
+    
+  </author>
+  <generator uri="http://www.coderforart.com/">CoderForArt</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[自我介绍]]></title>
+    <link href="limindesign.top/17090471971097.html"/>
+    <meta name="description" content="limin" /><author><name><![CDATA[limin]]></name></author>
+    <updated>2024-02-27T23:19:57+08:00</updated>
+    <id>limindesign.top/17090471971097.html</id>
+    <content type="html"><![CDATA[
+    <img src="media/17090494408920/首页@2x.jpg" />
+<p>姓名： <em><strong>李敏</strong></em><br />
+职业年限： <strong><strong>4年</strong></strong></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[智慧矿山]]></title>
+    <link href="limindesign.top/zhi-hui-kuang-shan2zhi-hui-kua.html"/>
+    <meta name="description" content="limin" /><author><name><![CDATA[limin]]></name></author>
+    <updated>2024-02-27T15:45:08+08:00</updated>
+    <id>limindesign.top/zhi-hui-kuang-shan2zhi-hui-kua.html</id>
+    <content type="html"><![CDATA[
+    <img src="media/17090494408920/首页@2x.jpg" />
+<p><img src="media/17090199081486/2-%E6%99%BA%E6%85%A7%E7%9F%BF%E5%B1%B1@2x.jpg" alt="2-智慧矿山@2x" /></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[产业大脑]]></title>
+    <link href="limindesign.top/chan-ye-da-nao4chan-ye-da-nao2.html"/>
+    <meta name="description" content="limin" /><author><name><![CDATA[limin]]></name></author>
+    <updated>2024-02-27T23:19:57+08:00</updated>
+    <id>limindesign.top/chan-ye-da-nao4chan-ye-da-nao2.html</id>
+    <content type="html"><![CDATA[
+    <img src="media/17090494408920/首页@2x.jpg" />
+<p><img src="media/17090471970810/4-%E4%BA%A7%E4%B8%9A%E5%A4%A7%E8%84%91@2x.jpg" alt="4-产业大脑@2x" /></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[智慧工地]]></title>
+    <link href="limindesign.top/zhi-hui-gong-de3zhi-hui-gong-d.html"/>
+    <meta name="description" content="limin" /><author><name><![CDATA[limin]]></name></author>
+    <updated>2024-02-27T22:15:46+08:00</updated>
+    <id>limindesign.top/zhi-hui-gong-de3zhi-hui-gong-d.html</id>
+    <content type="html"><![CDATA[
+    <img src="media/17090494408920/首页@2x.jpg" />
+<p><img src="media/17090433464166/3-%E6%99%BA%E6%85%A7%E5%B7%A5%E5%9C%B0@2x.jpg" alt="3-智慧工地@2x" /></p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[其他作品]]></title>
+    <link href="limindesign.top/qi-ta-zuo-pin5qi-ta2xmedia1709.html"/>
+    <meta name="description" content="limin" /><author><name><![CDATA[limin]]></name></author>
+    <updated>2024-02-27T23:19:57+08:00</updated>
+    <id>limindesign.top/qi-ta-zuo-pin5qi-ta2xmedia1709.html</id>
+    <content type="html"><![CDATA[
+    <img src="media/17090494408920/首页@2x.jpg" />
+<p><img src="media/17090471971018/5-%E5%85%B6%E4%BB%96@2x.jpg" alt="5-其他@2x" /></p>
+
+]]></content>
+  </entry>
+  
+</feed>
