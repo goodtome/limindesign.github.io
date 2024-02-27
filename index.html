@@ -6,14 +6,14 @@
     <meta name="viewport" content="width=device-width,minimum-scale=1" />
     <title>
         
-      首页 - 李敏的设计
+      李敏的作品集
       
     </title>
-    <meta name="keywords" content="李敏的设计" />
+    <meta name="keywords" content="李敏的作品集" />
     
     
     
-    <link href="atom.xml" rel="alternate" title="李敏的设计" type="application/atom+xml">
+    <link href="atom.xml" rel="alternate" title="李敏的作品集" type="application/atom+xml">
     <script src="https://cdn.bootcss.com/moment.js/2.24.0/moment.min.js"></script>
     <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     
@@ -29,40 +29,144 @@
       <div class="head">
         <div class="row">
           <div class="col-md-12">
-            <div class="blogname">李敏的设计</div>
+            <div class="blogname">李敏的作品集</div>
             <nav>
               
                 <div class="item"><a target="_self" href="index.html">首页</a></div>
               
-                <div class="item"><a target="_self" href="archives.html">存档</a></div>
+                <div class="item"><a target="_self" href="header.html">智慧工地</a></div>
               
-                <div class="item"><a target="_self" href="header.html ">作品集</a></div>
+                <div class="item"><a target="_self" href="category.html">智慧矿山</a></div>
+              
+                <div class="item"><a target="_self" href="tags.html">亚运会</a></div>
+              
+                <div class="item"><a target="_self" href="footer.html">产业大脑</a></div>
+              
+                <div class="item"><a target="_self" href="sidebar.html">其他</a></div>
+              
+                <div class="item"><a target="_self" href="archives.html">存档</a></div>
               
             </nav>
           </div>
         </div>
       </div>
       <hr>
-    </div> <div class="container" id="page">
+    </div> <div class="container" id="category">
+  
+    
+      <div class="article huge">
+        <div class="featureimg" style="background-image: url('media/17090411188706/首页@2x.jpg')"></div>
+        <div class="row content">
+          <div class="col-md-2"></div>
+          <div class="col-md-10 main">
+            <div class="row">
+              <div class="col-md-10 post">
+                <div class="headline"><a href="17090471971097.html">自我介绍</a></div>
+                
+                <div class="meta"><span class="time">$[timeformat('2024-02-27T23:19:57+08:00')]</span></div>
+                <div class="body">
+                    <p>姓名： <em><strong>李敏</strong></em><br />
+职业年限： <strong><strong>4年</strong></strong></p>
 
-  <div class="row">
-    <div class="col-md-9 offset-md-3">
-      <h1 class="title" itemprop="name">首页</h1>
-    </div>
+                </div>
+                <div class="bottom">
+                  <a href="17090471971097.html" class="continue float-right">
+                    继续阅读
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="otherposts row">
+    
+  
+    
+        <div class="col-md-6">
+          <a href="zhi-hui-gong-de3zhi-hui-gong-d.html" class="item">
+            <div class="article normal">
+              <div class="featureimg" style="background-image: url('media/17090411188706/首页@2x.jpg')"></div>
+              <div class="articleinfo">
+                <div class="headline">智慧工地</div>
+                
+              </div>
+            </div>
+          </a>
+        </div>
+    
+  
+    
+        <div class="col-md-6">
+          <a href="zhi-hui-kuang-shanfu-dang-sha.html" class="item">
+            <div class="article normal">
+              <div class="featureimg" style="background-image: url('media/17090411188706/首页@2x.jpg')"></div>
+              <div class="articleinfo">
+                <div class="headline">智慧矿山</div>
+                
+              </div>
+            </div>
+          </a>
+        </div>
+    
+  
+    
+        <div class="col-md-6">
+          <a href="chan-ye-da-nao4chan-ye-da-nao2.html" class="item">
+            <div class="article normal">
+              <div class="featureimg" style="background-image: url('media/17090411188706/首页@2x.jpg')"></div>
+              <div class="articleinfo">
+                <div class="headline">产业大脑</div>
+                
+              </div>
+            </div>
+          </a>
+        </div>
+    
+  
+    
+        <div class="col-md-6">
+          <a href="qi-ta-zuo-pin5qi-ta2xmedia1709.html" class="item">
+            <div class="article normal">
+              <div class="featureimg" style="background-image: url('media/17090411188706/首页@2x.jpg')"></div>
+              <div class="articleinfo">
+                <div class="headline">其他作品</div>
+                
+              </div>
+            </div>
+          </a>
+        </div>
+    
+   
   </div>
-  <div class="row content">
-    <div class="col-md-8 offset-md-4">
-      
-    </div>
+  <div class="pagenavi">
+    <div class="item">已是最新一页</div>
+    <div class="item"> · </div>
+    <div class="item">已是最旧一页</div>
   </div>
-
-</div>     <div class="container">
+ </div>
+ <script>
+   let category = new Vue({
+    el: '#category',
+    data: {},
+    methods: {
+      indexOddandEven(index) {
+        return index%2 ? 'odd' : 'even';
+      },
+      timeformat(raw) {
+        return moment(raw).format("YYYY 年 MM 月 DD 日");
+      }
+    },
+    delimiters: ['$[', ']']
+  })
+ </script>
+      <div class="container">
       <hr>
       <div class="footer" id="footer">
         <div class="slogan">Let's tessellate.</div>
         <div class="meta">
           <p></p>
-          <p>「李敏的设计」使用 <a href="https://zh.mweb.im/" target="_blank">MWeb</a> 和 <a href="https://github.com/Astrian/reflect-white-mweb-theme" target="_blank">Reflect White</a> 搭建。</p>
+          <p>「李敏的作品集」使用 <a href="https://zh.mweb.im/" target="_blank">MWeb</a> 和 <a href="https://github.com/Astrian/reflect-white-mweb-theme" target="_blank">Reflect White</a> 搭建。</p>
           <p class='colorScheme'>色彩模式：<span id='colorSchemeLight' onclick="changeColorScheme('light');">明亮</span> &middot; <span id='colorSchemeDark' onclick="changeColorScheme('dark')">黑暗</span> &middot; <span id='colorSchemeSystem' onclick="changeColorScheme('system')">跟随系统</span></p>
         </div>
       </div>
